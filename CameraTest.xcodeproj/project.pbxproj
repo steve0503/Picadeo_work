@@ -310,7 +310,6 @@
 		006126111884EBCE00DA9492 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 006126101884EBCE00DA9492 /* MainViewController.m */; };
 		006126141884EC1300DA9492 /* CameraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 006126131884EC1300DA9492 /* CameraViewController.m */; };
 		00AB918918865690004E50F3 /* LogingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 00AB918818865690004E50F3 /* LogingViewController.m */; };
-		00AC1E411898C74500D2B21E /* newlogin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 00AC1E401898C74500D2B21E /* newlogin.jpg */; };
 		00AC1E431898C81C00D2B21E /* newlogin2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 00AC1E421898C81C00D2B21E /* newlogin2.jpg */; };
 		00AC1E451898C99C00D2B21E /* password_resend2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 00AC1E441898C99C00D2B21E /* password_resend2.jpg */; };
 		00AC1E471898CA5F00D2B21E /* newcategory.png in Resources */ = {isa = PBXBuildFile; fileRef = 00AC1E461898CA5F00D2B21E /* newcategory.png */; };
@@ -428,6 +427,7 @@
 		04DECF411893765A00604680 /* Mypage_button.png in Resources */ = {isa = PBXBuildFile; fileRef = 04DECF401893765A00604680 /* Mypage_button.png */; };
 		04DECF431893767100604680 /* search_button.png in Resources */ = {isa = PBXBuildFile; fileRef = 04DECF421893767100604680 /* search_button.png */; };
 		04DECF451893ADA200604680 /* video_menu.png in Resources */ = {isa = PBXBuildFile; fileRef = 04DECF441893ADA200604680 /* video_menu.png */; };
+		04DFC7D21899153600D183F4 /* newlogin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04DFC7D11899153600D183F4 /* newlogin.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -747,7 +747,6 @@
 		006126131884EC1300DA9492 /* CameraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CameraViewController.m; sourceTree = "<group>"; };
 		00AB918718865690004E50F3 /* LogingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LogingViewController.h; sourceTree = "<group>"; };
 		00AB918818865690004E50F3 /* LogingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LogingViewController.m; sourceTree = "<group>"; };
-		00AC1E401898C74500D2B21E /* newlogin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = newlogin.jpg; path = "../../Dev_docs/이미지/newlogin.jpg"; sourceTree = "<group>"; };
 		00AC1E421898C81C00D2B21E /* newlogin2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = newlogin2.jpg; sourceTree = "<group>"; };
 		00AC1E441898C99C00D2B21E /* password_resend2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = password_resend2.jpg; sourceTree = "<group>"; };
 		00AC1E461898CA5F00D2B21E /* newcategory.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = newcategory.png; sourceTree = "<group>"; };
@@ -884,6 +883,7 @@
 		04DECF401893765A00604680 /* Mypage_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Mypage_button.png; sourceTree = "<group>"; };
 		04DECF421893767100604680 /* search_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = search_button.png; sourceTree = "<group>"; };
 		04DECF441893ADA200604680 /* video_menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = video_menu.png; sourceTree = "<group>"; };
+		04DFC7D11899153600D183F4 /* newlogin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = newlogin.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1232,7 +1232,7 @@
 				04A4701918940D6B008DB6B0 /* pic1.jpg */,
 				00AC503C189651ED00277238 /* iu1.jpg */,
 				00AC503D189651ED00277238 /* iu2.jpg */,
-				00AC1E401898C74500D2B21E /* newlogin.jpg */,
+				04DFC7D11899153600D183F4 /* newlogin.jpg */,
 				00AC503E189651ED00277238 /* iu3.jpg */,
 				00AC1E421898C81C00D2B21E /* newlogin2.jpg */,
 				00AC503F189651ED00277238 /* iu4.jpg */,
@@ -1551,7 +1551,6 @@
 				0061251B1884C62400DA9492 /* button.png in Resources */,
 				006125121884C62400DA9492 /* button-fast-rewind.png in Resources */,
 				006125931884C62400DA9492 /* noodle.png in Resources */,
-				00AC1E411898C74500D2B21E /* newlogin.jpg in Resources */,
 				006125041884C62400DA9492 /* battery-full.png in Resources */,
 				04CC4CDB1896D59E0051C2B4 /* image15.jpg in Resources */,
 				006125D01884C62400DA9492 /* smiley-beast.png in Resources */,
@@ -1859,6 +1858,7 @@
 				04DECF451893ADA200604680 /* video_menu.png in Resources */,
 				006125941884C62400DA9492 /* office-bin.png in Resources */,
 				0061252E1884C62400DA9492 /* coding.png in Resources */,
+				04DFC7D21899153600D183F4 /* newlogin.jpg in Resources */,
 				042762E71894ABE00036762D /* pic11.jpg in Resources */,
 				04DECF3E1893764A00604680 /* camera_tabbar.png in Resources */,
 				00AC5047189651ED00277238 /* iu3.jpg in Resources */,
